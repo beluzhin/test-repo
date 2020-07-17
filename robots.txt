@@ -1,0 +1,3 @@
+User-agent: *
+Host: https://uptext.ru
+Sitemap: https://uptext.ru/sitemap.xml
